@@ -1,0 +1,9 @@
+Gideon 82 CEO 0 0 1 
+mark 83 Manager 0 0 1 
+Bruno 84 Assistant 0 0 1 
+Nickey 85 sender 0 0 1 
+pool 86 Employee 0 0 1 
+koech 87 Employee 0 0 1 
+ngeno 88 Employee 0 0 1 
+Maxine 89 Employee 0 0 1 
+Risper 90 Employee 0 0 1 
